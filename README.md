@@ -12,6 +12,12 @@
 
 ---
 
+![Vyodour's Stats](https://github-readme-stats.vercel.app/api?username=Vyodour&theme=blue-green&show_icons=true&hide_border=false&count_private=true)
+![Vyodour's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vyodour&theme=blue-green&hide_border=false)
+![Vyodour's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vyodour&theme=blue-green&show_icons=true&hide_border=false&layout=compact)
+
+---
+
 ## 💻 Languages
 
 ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white) 
