@@ -12,6 +12,7 @@
 
 ---
 
+[![Roja Fadilah profile views](https://u8views.com/api/v1/github/profiles/218681819/views/day-week-month-total-count.svg)](https://u8views.com/github/Vyodour)
 ![Vyodour's Stats](https://github-readme-stats.vercel.app/api?username=Vyodour&theme=blue-green&show_icons=true&hide_border=false&count_private=true)
 ![Vyodour's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vyodour&theme=blue-green&hide_border=false)
 ![Vyodour's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vyodour&theme=blue-green&show_icons=true&hide_border=false&layout=compact)
