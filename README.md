@@ -1,7 +1,7 @@
 <p align="center">
   <h2 align="center">Greetings 👋</h2>
   <h3 align="center">I'm Roja Fadilah</h3>
-  <h3 align="center">Student & Developer<br>(still looking for new ideas and innovations)</h3>
+  <h3 align="center">Student & Developer<br>Like researching and find some interests with any programming framework</h3>
 </p>
 
 <hr>
