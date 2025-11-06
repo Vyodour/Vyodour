@@ -14,7 +14,7 @@
   </picture>
 
 <hr>
-
+<p align=center>
   <a href="https://u8views.com/github/Vyodour">
     <img src="https://u8views.com/api/v1/github/profiles/218681819/views/day-week-month-total-count.svg" alt="Roja Fadilah profile views" />
   </a>
@@ -22,6 +22,7 @@
   <img alt="Vyodour's Stats" src="https://github-readme-stats.vercel.app/api?username=Vyodour&theme=blue-green&show_icons=true&hide_border=false&count_private=true" />
   <img alt="Vyodour's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Vyodour&theme=blue-green&hide_border=false" />
   <img alt="Vyodour's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vyodour&theme=blue-green&show_icons=true&hide_border=false&layout=compact" />
+  </p>
 
 <hr>
 
@@ -35,13 +36,10 @@
 
   💡 Interested In
 
- <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Unity-202A36?style=for-the-badge&logo=unity&logoColor=white" /> <img src="https://img.shields.io/badge/Blender-E87D00?style=for-the-badge&logo=blender&logoColor=white" />
+ <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Unity-202A36?style=for-the-badge&logo=unity&logoColor=white" /> <img src="https://img.shields.io/badge/Blender-E87D00?style=for-the-badge&logo=blender&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
-  🛠️ Currently building Flutter Quiz App & API
+  🛠️ Current Projects
+- LibreNMS Automation with Laravel
+- Flutter LMS Application & API using Laravel
 
-  <a href="https://github.com/Vyodour">
-    <img src="https://img.shields.io/badge/Vyodour-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 
-  <a href="https://github.com/Vyodour/quiz-learn-app-flutter">Flutter Quiz App</a>
-  <a href="https://github.com/Vyodour/quiz-learn-app-api">Quiz App API</a>
