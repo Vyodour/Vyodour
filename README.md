@@ -34,7 +34,7 @@
 
  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/LibreNMS-2D9941?style=for-the-badge&logo=power%20automate&logoColor=white" alt="LibreNMS" />
 
-  💡 Interested In
+  💡 Tools
 
  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Unity-202A36?style=for-the-badge&logo=unity&logoColor=white" /> <img src="https://img.shields.io/badge/Blender-E87D00?style=for-the-badge&logo=blender&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
