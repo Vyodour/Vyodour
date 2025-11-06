@@ -2,7 +2,7 @@
   <h2>Greetings 👋</h2>
   <h3>I'm Roja Fadilah</h3>
   <h3>Student & Developer</h3>
-<p>📚 Focused on continuous learning and technical exploration. Driven by a passion for mastering new tools and frameworks, I am proficient in leveraging diverse programming languages and specializing in creating scalable solutions across the backend and frontend.</p>
+<p>📚 Focused on continuous learning and technical exploration. Passioned for mastering new tools and frameworks, I can utilize some programming languages ​​and enjoy creating scalable solutions across both the backend and frontend. Also interested in creating various architecture of the program flow to get the intended.</p>
 </p>
 
 <hr>
