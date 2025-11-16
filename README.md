@@ -3,6 +3,9 @@
   <h3>I'm Roja Fadilah</h3>
   <h3>Student & Developer</h3>
 <p>📚 Focused on continuous learning and technical exploration. Passioned for mastering new tools and frameworks, I can utilize some programming languages ​​and enjoy creating scalable solutions across both the backend and frontend. Also interested in creating various architecture of the program flow to get the intended.</p>
+ <a href="https://u8views.com/github/Vyodour">
+    <img src="https://u8views.com/api/v1/github/profiles/218681819/views/day-week-month-total-count.svg" alt="Roja Fadilah profile views" />
+  </a>
 </p>
 
 <hr>
@@ -15,9 +18,6 @@
 
 <hr>
 <p align=center>
-  <a href="https://u8views.com/github/Vyodour">
-    <img src="https://u8views.com/api/v1/github/profiles/218681819/views/day-week-month-total-count.svg" alt="Roja Fadilah profile views" />
-  </a>
 
   <img alt="Vyodour's Stats" src="https://github-readme-stats.vercel.app/api?username=Vyodour&theme=blue-green&show_icons=true&hide_border=false&count_private=true" />
   <img alt="Vyodour's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Vyodour&theme=blue-green&hide_border=false" />
