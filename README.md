@@ -2,7 +2,7 @@
   <h2>Greetings 👋</h2>
   <h3>I'm Roja Fadilah</h3>
   <h3>Student & Developer</h3>
-<p>📚 Focused on continuous learning and technical exploration. Passioned for mastering new tools and frameworks, I can utilize some programming languages ​​and enjoy creating scalable solutions across both the backend and frontend. Also interested in creating various architecture of the program flow to get the intended.</p>
+<p>📚 Focused on continuous learning and technical exploration. Passioned for mastering new tools and frameworks, I can utilize some programming languages ​​and enjoy creating solutions for both the backend and frontend. Also interested in creating various architecture of the program flow to get the intended.</p>
  <a href="https://u8views.com/github/Vyodour">
     <img src="https://u8views.com/api/v1/github/profiles/218681819/views/day-week-month-total-count.svg" alt="Roja Fadilah profile views" />
   </a>
@@ -39,10 +39,15 @@
 <img src="https://img.shields.io/badge/MySQL-69B8FF?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFC000?style=for-the-badge&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/Redis-FF2D20?style=for-the-badge&logo=redis&logoColor=white" /> 
 
   💡 Tools
+  
+ <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Unity-202A36?style=for-the-badge&logo=unity&logoColor=white" /> <img src="https://img.shields.io/badge/Blender-E87D00?style=for-the-badge&logo=blender&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
- <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Unity-202A36?style=for-the-badge&logo=unity&logoColor=white" /> <img src="https://img.shields.io/badge/Blender-E87D00?style=for-the-badge&logo=blender&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+ 🎨 Design
 
-  🛠️ Current Projects
+ <img src="https://img.shields.io/badge/Figma-8300FF?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Canva-32D8FF?style=for-the-badge&logo=canva&logoColor=white" />
+
+  🛠️ These are current projects that i still developed and build.
+  
 - LibreNMS Automation with Laravel
 - Flutter LMS Application & API using Laravel
 
