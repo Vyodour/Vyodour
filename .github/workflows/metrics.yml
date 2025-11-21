@@ -1,0 +1,82 @@
+name: Metrics
+on:
+  # Update setiap jam 00:00 WITA
+  schedule: [{cron: "0 16 * * *"}] # 00:00 WITA = 16:00 UTC
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # --- KONFIGURASI DASAR ---
+          user: Vyodour
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Makassar
+          
+          # Agar tampilan lebar dan muat banyak fitur
+          config_display: large
+          config_padding: 0, 8 + 5%
+
+          # --- 1. BAHASA PEMROGRAMAN (Sesuai gambar kamu) ---
+          plugin_languages: yes
+          plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_colors: github
+          plugin_languages_details: lines, percentage
+          plugin_languages_indepth: yes # Analisis lebih dalam ke semua commit
+
+          # --- 2. ISO CALENDAR (Grafik 3D Keren) ---
+          # Menampilkan kontribusi dalam bentuk balok 3D
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+
+          # --- 3. HABITS (Kebiasaan Coding) ---
+          # Mendeteksi jam coding dan hari produktif kamu
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_habits_trim: yes
+
+          # --- 4. LINES (Statistik Baris Kode) ---
+          # Sejarah penambahan/penghapusan baris kode
+          plugin_lines: yes
+          plugin_lines_history_limit: 1
+          plugin_lines_repositories_limit: 4
+          plugin_lines_sections: base
+
+          # --- 5. ACHIEVEMENTS (Pencapaian/Piala GitHub) ---
+          # Menampilkan badge unlockable dari GitHub
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: C
+
+          # --- 6. NOTABLE (Kontribusi ke Repo Populer) ---
+          # Jika kamu pernah PR ke repo organisasi/orang lain
+          plugin_notable: yes
+          plugin_notable_from: organization
+          plugin_notable_types: commit
+
+          # --- 7. STARGAZERS (Analisis Bintang) ---
+          # Grafik pertumbuhan bintang di repo kamu
+          plugin_stargazers: yes
+          plugin_stargazers_charts: yes
+
+          # --- 8. TOPICS (Deteksi Framework/Tools) ---
+          # Ini mencoba menampilkan icon tools (Laravel/Flutter/Docker)
+          # Syarat: Kamu harus menambahkan 'topic' di repo kamu (misal: tag repo dengan 'flutter')
+          plugin_topics: yes
+          plugin_topics_sort: stars
+          plugin_topics_mode: icons
+          plugin_topics_limit: 15
