@@ -8,8 +8,7 @@
   </a>
 </p>
 
-<hr>
-
+![Metrics](https://github.com/Vyodour/Vyodour/blob/main/github-metrics.svg)
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vyodour/Vyodour/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vyodour/Vyodour/output/github-contribution-grid-snake.svg" />
@@ -50,7 +49,3 @@
   
 - LibreNMS Automation with Laravel
 - Flutter LMS Application & API using Laravel
-
-<hr>
-
-![Metrics](https://github.com/Vyodour/Vyodour/blob/main/github-metrics.svg)
