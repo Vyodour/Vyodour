@@ -19,10 +19,10 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=blue
+            dist/ocean.gif?color_snake=#2ecc40&color_dots=#2188ff
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
+          
       - name: Push new content to branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
