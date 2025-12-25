@@ -3,20 +3,7 @@
   <h3>I'm Roja Fadilah</h3>
   <h3>Student & Developer</h3>
 <p>📚 Focused on continuous learning and technical exploration. Passioned for mastering new tools and frameworks, I can utilize some programming languages ​​and enjoy creating solutions for both the backend and frontend. Also interested in creating various architecture of the program flow to get the intended.</p>
- <a href="https://u8views.com/github/Vyodour">
-    <img src="https://u8views.com/api/v1/github/profiles/218681819/views/day-week-month-total-count.svg" alt="Roja Fadilah profile views" />
-  </a>
 </p>
-
-![Metrics](https://github.com/Vyodour/Vyodour/blob/main/github-metrics.svg)
-
-<hr>
-<p align=center>
-
-  <img alt="Vyodour's Stats" src="https://github-readme-stats.vercel.app/api?username=Vyodour&theme=blue-green&show_icons=true&hide_border=false&count_private=true" />
-  <img alt="Vyodour's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Vyodour&theme=blue-green&hide_border=false" />
-  <img alt="Vyodour's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vyodour&theme=blue-green&show_icons=true&hide_border=false&layout=compact" />
-  </p>
 
 <hr>
 
@@ -26,7 +13,7 @@
 
   ⚙️ Frameworks
 
- <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Next.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+ <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Next.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Actix-FFFFFF?style=for-the-badge&logo=actix&logoColor=black" />
 
   🗂 Database & Caching
   
@@ -40,7 +27,7 @@
 
  <img src="https://img.shields.io/badge/Figma-8300FF?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Canva-32D8FF?style=for-the-badge&logo=canva&logoColor=white" />
 
-  🛠️ These are current projects that i still develop and build.
+ ## 🛠️ These are current projects that i still develop and build.
   
 - LibreNMS Automation with Laravel
 - Flutter LMS Application & API using Laravel
