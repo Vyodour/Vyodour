@@ -32,4 +32,4 @@
 - LibreNMS Automation with Laravel
 - Flutter LMS Application & API using Laravel
 - UI Component Library / Template
-- Making My Own Blog Using Next JS (also learn how to use it)
+- Making My Own Blog Using Next JS(FE) & Actix(BE)
