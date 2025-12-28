@@ -27,7 +27,7 @@
 
  <img src="https://img.shields.io/badge/Figma-8300FF?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Canva-32D8FF?style=for-the-badge&logo=canva&logoColor=white" />
 
- ## 🛠️ These are current projects that i still develop and build.
+ ## 🛠️ These are current projects that I develop and build.
   
 - LibreNMS Automation with Laravel
 - Flutter LMS Application & API using Laravel
