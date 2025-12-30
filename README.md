@@ -9,13 +9,13 @@
   🎶 <b>Beyond coding</b>, I'm a huge music enthusiast. I believe that every great line of code is fueled by a good soundtrack. Music is my primary source of inspiration and my favorite companion during long technical sessions.
 </p>
 
+<br><br>
+
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31d7ziaoqddonegwb5zrxujtw5ve&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31d7ziaoqddonegwb5zrxujtw5ve&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color_cover=true" width="150">
   </a>
 </p>
-
-<br />
 
 <div align="center">
   <h3>My Artists on Rotation 🎸</h3>
@@ -40,7 +40,8 @@
     </tr>
   </table>
 </div>
-<hr>
+
+<br><br>
 
   💻 Languages
 
