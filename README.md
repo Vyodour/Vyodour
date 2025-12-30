@@ -5,6 +5,41 @@
 <p>📚 Focused on continuous learning and technical exploration. Passioned for mastering new tools and frameworks, I can utilize some programming languages ​​and enjoy creating solutions for both the backend and frontend. Also interested in creating various architecture of the program flow to get the intended.</p>
 </p>
 
+<p>
+  🎶 <b>Beyond coding</b>, I'm a huge music enthusiast. I believe that every great line of code is fueled by a good soundtrack. Music is my primary source of inspiration and my favorite companion during long technical sessions.
+</p>
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31d7ziaoqddonegwb5zrxujtw5ve&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31d7ziaoqddonegwb5zrxujtw5ve&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color_cover=true" width="150">
+  </a>
+</p>
+
+<br />
+
+<div align="center">
+  <h3>Top Artists on Rotation 🎸</h3>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://i.scdn.co/image/ab6761610000e5eb7da39dea0a72f581535fb11f" width="60px" style="border-radius:50%" /><br />
+        <img src="https://img.shields.io/badge/Arctic_Monkeys-000000?style=flat-square&logo=spotify&logoColor=white" />
+      </td>
+      <td align="center">
+        <img src="https://i.scdn.co/image/ab6761610000e5eb11029052d3a3d537f90e50f5" width="60px" style="border-radius:50%" /><br />
+        <img src="https://img.shields.io/badge/Radiohead-FFFFFF?style=flat-square&logo=spotify&logoColor=black" />
+      </td>
+      <td align="center">
+        <img src="https://i.scdn.co/image/ab6761610000e5eb30f0f370f119a008c2d5806f" width="60px" style="border-radius:50%" /><br />
+        <img src="https://img.shields.io/badge/Linkin_Park-000000?style=flat-square&logo=spotify&logoColor=white" />
+      </td>
+      <td align="center">
+        <img src="https://i.scdn.co/image/ab6761610000e5eb9816654896aa3324ef9f6dc2" width="60px" style="border-radius:50%" /><br />
+        <img src="https://img.shields.io/badge/Tame_Impala-94191C?style=flat-square&logo=spotify&logoColor=white" />
+      </td>
+    </tr>
+  </table>
+</div>
 <hr>
 
   💻 Languages
