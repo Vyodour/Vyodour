@@ -18,24 +18,24 @@
 <br />
 
 <div align="center">
-  <h3>Top Artists on Rotation 🎸</h3>
+  <h3>My Artists on Rotation 🎸</h3>
   <table>
     <tr>
       <td align="center">
-        <img src="https://i.scdn.co/image/ab6761610000e5eb7da39dea0a72f581535fb11f" width="60px" style="border-radius:50%" /><br />
-        <img src="https://img.shields.io/badge/Arctic_Monkeys-000000?style=flat-square&logo=spotify&logoColor=white" />
+        <img src="https://i.scdn.co/image/ab6761610000e5eb299e65296cc1d467bbee678d" width="60px" style="border-radius:50%" /><br />
+        <img src="https://img.shields.io/badge/Ellegarden-000000?style=flat-square&logo=spotify&logoColor=red" />
       </td>
       <td align="center">
-        <img src="https://i.scdn.co/image/ab6761610000e5eb11029052d3a3d537f90e50f5" width="60px" style="border-radius:50%" /><br />
-        <img src="https://img.shields.io/badge/Radiohead-FFFFFF?style=flat-square&logo=spotify&logoColor=black" />
+        <img src="https://www.oneokrock.com/en/wp-content/uploads/2025/01/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88-2025-01-20-12.15.37.jpg" width="100px" style="border-radius:50%" /><br />
+        <img src="https://img.shields.io/badge/One_Ok_Rock-FFFFFF?style=flat-square&logo=spotify&logoColor=black" />
       </td>
       <td align="center">
-        <img src="https://i.scdn.co/image/ab6761610000e5eb30f0f370f119a008c2d5806f" width="60px" style="border-radius:50%" /><br />
-        <img src="https://img.shields.io/badge/Linkin_Park-000000?style=flat-square&logo=spotify&logoColor=white" />
+        <img src="https://alexandros.jp/s3/skiyaki/uploads/link/image/72573/25.12_A_Photo_M.jpg" width="100px" style="border-radius:50%" /><br />
+        <img src="https://img.shields.io/badge/Alexandros-000000?style=flat-square&logo=spotify&logoColor=white" />
       </td>
       <td align="center">
-        <img src="https://i.scdn.co/image/ab6761610000e5eb9816654896aa3324ef9f6dc2" width="60px" style="border-radius:50%" /><br />
-        <img src="https://img.shields.io/badge/Tame_Impala-94191C?style=flat-square&logo=spotify&logoColor=white" />
+        <img src="https://cdn-images.dzcdn.net/images/artist/d73d2fe29c7a4a3815fc6ad949516df2/1900x1900-000000-80-0-0.jpg" width="80px" style="border-radius:50%" /><br />
+        <img src="https://img.shields.io/badge/Bump_Of_Chicken-FFFFFF?style=flat-square&logo=spotify&logoColor=blue" />
       </td>
     </tr>
   </table>
