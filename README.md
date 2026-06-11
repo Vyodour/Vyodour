@@ -13,3 +13,4 @@
 - Flutter LMS Application & API using Laravel
 - UI Component Library / Template
 - Making My Own Blog Using Next JS(FE) & Actix(BE)
+-Creating Network Quality Monitoring Website to compare the internet network quality in various regions of Indonesia
