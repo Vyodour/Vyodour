@@ -1,6 +1,6 @@
 <p>
   <h2>Groete 👋</h2>
-  <h3>I'm Roja Fadilah</h3>
+  <h3>Ek is Roja Fadilah.</h3>
   <h3>Student & Developer</h3>
 <p>📚 Focused on continuous learning and technical exploration. Passioned for mastering new tools and frameworks, I can utilize some programming languages ​​and enjoy creating solutions for both the backend and frontend. Also interested in creating various architecture of the program flow to get the intended.</p>
 </p>
